@@ -1,0 +1,1 @@
+# swift-color-scheme-generator

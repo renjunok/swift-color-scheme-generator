@@ -95,4 +95,3 @@ Feel free to star and fork the repository, and submit issues.
 
 ---
 
-This formatted README should be ready for submission to GitHub.

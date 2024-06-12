@@ -1,11 +1,5 @@
 # swift-color-scheme-kit
 
-Here is the translated README content with appropriate Markdown formatting:
-
----
-
-# Color Combination Kit
-
 This kit is a color combination toolkit.
 It provides a base color and generates primary color, accent color, shadow color, monochromatic color, analogous color, triadic color, tetradic color, and neutral color based on the color wheel.
 It aims to help individual developers and small to medium-sized development teams who lack professional UI designers.

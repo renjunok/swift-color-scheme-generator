@@ -1,4 +1,4 @@
-# swift-color-scheme-kit
+# swiftui-color-scheme-kit
 
 This kit is a color combination toolkit.
 It provides a base color and generates primary color, accent color, shadow color, monochromatic color, analogous color, triadic color, tetradic color, and neutral color based on the color wheel.
@@ -27,8 +27,7 @@ It aims to help individual developers and small to medium-sized development team
 You can add ColorSchemeKit to your Xcode project by adding it as a dependency.
 
 1. From the **File** menu, select **Swift Packages > Add Package Dependency**.
-2. Enter `https://github.com/renjunok/swift-color-scheme-kit.git` as the repository URL.
-3. Specify the version as `1.0.0`.
+2. Enter `https://github.com/renjunok/swiftui-color-scheme-kit.git` as the repository URL.
 
 
 Import the library:

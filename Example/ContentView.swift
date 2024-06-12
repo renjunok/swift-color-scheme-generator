@@ -19,7 +19,7 @@ struct ContentView: View {
                 .fill(colorScheme.primary?.adjustedSaturation(by: 10) ?? .gray)
                 .padding(.horizontal)
                 .onTapGesture {
-                    colorScheme.adjustedPrimary(hue: .degrees(94), saturation: 0.96, brightness: 0.74)
+                    colorScheme.modifyPrimary(hue: .degrees(94), saturation: 0.96, brightness: 0.74)
 //                    colorScheme.adjustedPrimary(hue: .degrees(94))
 //                    colorScheme.adjustedPrimary(saturation: -0.5)
 //                    colorScheme.adjustedPrimary(brightness: -0.5)

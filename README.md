@@ -27,7 +27,15 @@ It aims to help individual developers and small to medium-sized development team
 - **Swift version**: > 5.3
 - **iOS**: > 14
 
-### Installation via Xcode Package Manager
+## Installation via Xcode Package Manager
+### Swift Package Manager
+
+You can add ColorSchemeKit to your Xcode project by adding it as a dependency.
+
+1. From the **File** menu, select **Swift Packages > Add Package Dependency**.
+2. Enter `https://github.com/renjunok/swift-color-scheme-kit.git` as the repository URL.
+3. Specify the version as `1.0.0`.
+
 
 Import the library:
 
